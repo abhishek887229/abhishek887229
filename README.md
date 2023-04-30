@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek887229
-- 👀 I’m interested in machine learning, Ai, SQL, Python,IOT and automation
-- 🌱 I’m currently python, SQL,python And R
+- 👀 I’m interested in machine learning, Ai, SQL, Python,IOT,game development and automation
+- 🌱 I’m currently python, SQL,python,pygame and R
 - 💞️ I’m looking to collaborate on data analytics projects.
 
 <!---
