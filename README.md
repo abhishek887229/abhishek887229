@@ -10,3 +10,9 @@
 <a href="https://www.kaggle.com/iottech" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
+
+
+<a href="https://medium.com/@abhishekkr9455" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a>
+	
