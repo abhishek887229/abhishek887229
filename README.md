@@ -43,8 +43,11 @@ I always looking to work with people that are hopeless idealists like me. if som
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>	
+<br>
+<br>
+COntact me :- 
+<hr>
 
-
-<a href = "mailto:abhishekkr9455@gmail.com?subject = Feedback&body = Message">
-Send Feedback
+<a href = "mailto:abhishekkr9455@gmail.com?subject = Connection&body = hello">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
