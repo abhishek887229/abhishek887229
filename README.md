@@ -13,6 +13,6 @@
 
 
 <a href="https://medium.com/@abhishekkr9455" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 	
