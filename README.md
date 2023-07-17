@@ -7,6 +7,6 @@
 <a href="https://www.linkedin.com/in/abhishek887229/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek887229/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.kaggle.com/iottech" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
