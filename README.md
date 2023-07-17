@@ -1,2 +1,2 @@
-Email: your.email@example.com
 
+<a href="URL" class="btn">Button Text</a>
