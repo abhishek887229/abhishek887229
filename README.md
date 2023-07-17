@@ -8,6 +8,10 @@ Hello there, My name is Abhishek I am a Data Analyst from India, I am learning D
 	
 I always looking to work with people that are hopeless idealists like me. if someone is interested in creating and working on a cool Data analysis project please contact me.
 </p>
+<br>
+<br>
+
+<h3>Contact Me 📧</h3>
 <hr>
 <a href="https://twitter.com/Abhishe91081609" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
