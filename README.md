@@ -11,7 +11,7 @@ I always looking to work with people that are hopeless idealists like me. if som
 <br>
 <br>
 
-<h3>Contact Me 📧</h3>
+<h3>Connect  With Me. </h3>
 <hr>
 <a href="https://twitter.com/Abhishe91081609" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -43,3 +43,8 @@ I always looking to work with people that are hopeless idealists like me. if som
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>	
+
+
+<a href = "mailto:abhishekkr9455@gmail.com?subject = Feedback&body = Message">
+Send Feedback
+</a>
