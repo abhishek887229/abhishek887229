@@ -10,6 +10,7 @@ I always looking to work with people that are hopeless idealists like me. if som
 </p>
 <br>
 <br>
+<br>
 
 <h3>Connect  With Me. </h3>
 <hr>
@@ -30,9 +31,10 @@ I always looking to work with people that are hopeless idealists like me. if som
 </a>
 <br>
 <br>
+<br>
 <h3>Technologies i am learning 🤖</h3>
 <hr>
-<p align='center'><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<p align='Left'><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -44,10 +46,18 @@ I always looking to work with people that are hopeless idealists like me. if som
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>	
 <br>
-<br>
-COntact me :- 
+<br><br>
+<h3>Contact me on: -</h3> 
 <hr>
 
 <a href = "mailto:abhishekkr9455@gmail.com?subject = Connection&body = hello">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek887229&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek887229" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek887229&theme=algolia" show_icons=true&locale=en&layout=compact" alt="abhishek887229" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek887229&theme=algolia" show_icons=true&locale=en" alt="abhishek887229" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek887229&theme=algolia" alt="abhishek887229" /></p>
