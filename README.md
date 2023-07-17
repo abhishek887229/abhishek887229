@@ -29,6 +29,10 @@ I always looking to work with people that are hopeless idealists like me. if som
 <a href="https://medium.com/@abhishekkr9455" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
+
+<a href="https://www.hackerrank.com/abhishekkr9455?hr_r=1" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
 <br>
 <br>
 <br>
@@ -55,7 +59,7 @@ I always looking to work with people that are hopeless idealists like me. if som
 </a>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek887229&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek887229" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek887229&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abhishek887229" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek887229&theme=algolia" show_icons=true&locale=en&layout=compact" alt="abhishek887229" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek887229&theme=algolia" show_icons=true&locale=en" alt="abhishek887229" /></p>
