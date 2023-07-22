@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek887229&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abhishek887229" /> </p>
 <h1> Hi, I,m Abhishek!👋 </h1>
 <br>
 <br>
@@ -60,7 +61,7 @@ I always looking to work with people that are hopeless idealists like me. if som
 </a>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek887229&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abhishek887229" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek887229&theme=algolia" show_icons=true&locale=en&layout=compact" alt="abhishek887229" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek887229&theme=algolia" show_icons=true&locale=en" alt="abhishek887229" /></p>
