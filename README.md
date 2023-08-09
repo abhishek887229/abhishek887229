@@ -56,7 +56,7 @@ I always looking to work with people that are hopeless idealists like me. if som
 <h3>Contact me on: -</h3> 
 <hr>
 
-<a href = "mailto:abhishekkr9455@gmail.com?subject = Connection&body = hello">
+<a href = "mailto:abhishek.a9455@gmail.com?subject = Connection&body = hello there">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <hr>
