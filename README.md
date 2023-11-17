@@ -41,7 +41,7 @@ I always looking to work with people that are hopeless idealists like me. if som
 <br>
 <br>
 <br>
-<h3>Technologies i am learning 🤖</h3>
+<h3>Technologies i know 🤖</h3>
 <hr>
 <p align='Left'><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
