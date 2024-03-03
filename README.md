@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek887229&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abhishek887229" /> </p>
 <h1> Hello, i am</h1>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=abhishek;Python%20Developer;ai%20enthusiast;&font=Arial&left=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=abhishek;Python%20Developer;Data%20Analyst;ai%20enthusiast;&font=Arial&left=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 <br>
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
