@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek887229&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abhishek887229" /> </p>
 <h1> Hello, i am</h1>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=abhishek;Python%20Developer;Data%20Analyst;ai%20enthusiast;&font=Arial&left=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=abhishek;Python%20Developer;Data%20Analyst;AI%20Enthusiast;&font=Arial&left=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 <br>
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
@@ -9,7 +9,7 @@
 <h3>About Me 🧑</h3>
 <hr>
 <p>
-Hello there, My name is Abhishek I am a Python Developer from India, I am learning python and I am also interested in Machine Learning and Ai. I also share my knowledge through <a href="https://medium.com/@abhishekkr9455">blog</a>, I love to work on Machine Learning, Web developemt, Ai, Python, and Web Scrapping projects. <br>
+Hello there, My name is Abhishek I am a Python Developer from India, I am learning python and I am also interested in Machine Learning and Ai. I also share my knowledge through <a href="https://medium.com/@abhishekkr9455">blog</a>, I love to work on Machine Learning, Web developemt, AI, Python, and Web Scrapping projects. <br>
 	
 I always looking to work with people that are hopeless idealists like me. if someone is interested in creating and working on a cool Data analysis project please contact me.
 </p>
