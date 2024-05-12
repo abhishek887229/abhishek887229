@@ -9,7 +9,7 @@
 <h3>About Me 🧑</h3>
 <hr>
 <p>
-Hello there, My name is Abhishek I am a Python Developer from India, I am learning python and I am also interested in Machine Learning and Ai. I also share my knowledge through <a href="https://medium.com/@abhishekkr9455">blog</a>, I love to work on Machine Learning, Web developemt, AI, Python, and Web Scrapping projects. <br>
+Hello there, My name is Abhishek I am a Python Developer from India, I am learning python and I am also interested in Machine Learning and Ai. I also share my knowledge through <a href="https://medium.com/@abhishekkr9455">blog</a>, I love to work on Web developemt, AI, Python, and Web Scrapping projects. <br>
 	
 I always looking to work with people that are hopeless idealists like me. if someone is interested in creating and working on a cool Data analysis project please contact me.
 </p>
